@@ -1,7 +1,5 @@
-# projeto-ip-cc
-Projeto da disciplina de introdução a progamação do curco de ciencia da computação no CIn-UFPE
-
 TITAN CHESS
+(Projeto da disciplina de introdução a progamação do curco de ciencia da computação no CIn-UFPE)
 Baseado no belissimo TITAN SOULS
 
 COMO RODAR O PROJETO
